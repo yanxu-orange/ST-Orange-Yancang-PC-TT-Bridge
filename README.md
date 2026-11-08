@@ -1,6 +1,6 @@
 # 砚藏 PC 联动
 
-供 TauriTavern 2.4.0 与含 TT 联动功能的砚藏 PC 使用。当前配套程序为本地测试版，公开砚藏 PC 0.2.0 尚不包含联动功能。安卓扩展继续使用原仓库。
+供 TauriTavern 2.4.0 与砚藏 PC 0.3.0 使用。[下载砚藏 PC](https://github.com/yanxu-orange/ST-Orange-Yancang-PC/releases/latest)。安卓扩展继续使用原仓库。
 
 ## 安装与连接
 
