@@ -1,0 +1,12 @@
+/* Keep the official extension drawer, typography and button surfaces. */
+#yancang-pc .yc-actions { display:flex; flex-wrap:wrap; gap:5px; }
+#yancang-pc input { width:100%; box-sizing:border-box; }
+#yancang-pc output { display:block; white-space:pre-wrap; overflow-wrap:anywhere; }
+#yancang-pc [data-pending] { font-weight:600; }
+#yancang-pc [data-time] { opacity:0.8; }
+#yancang-pc [hidden] { display:none !important; }
+
+#yancang-pc [data-connection-actions] { align-items:center; }
+#yancang-pc .yc-diagnostics { display:contents; }
+#yancang-pc .yc-diagnostics .menu_button { background:transparent; border-color:transparent; box-shadow:none; color:var(--SmartThemeBodyColor); opacity:0.68; }
+#yancang-pc [data-diag-notice]:empty { display:none; }
